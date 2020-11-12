@@ -1,1 +1,1 @@
-# Simpe-maz-java
+# Simpe-maze-java
